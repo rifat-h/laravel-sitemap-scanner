@@ -8,9 +8,9 @@
     "packages": [],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "stability-flags": [],
-    "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "ext-dom": "*"
